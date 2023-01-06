@@ -524,7 +524,7 @@ request. In our case a ```400``` HTTP Code and a message in the body explaining 
 failure was. 
 
 All the methods above on running the test will generate a *Pact file* which will be used
-by the Provider, API to make the same requests against the actual API to ensure the responses
+by the Provider API to make the same requests against the actual API to ensure the responses
 match the expectations of the Consumer.
 
 #### Step 3.3.2 - Completing Your First Consumer Test
