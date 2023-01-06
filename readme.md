@@ -85,7 +85,7 @@ Using the command line navigate to:
 ```
 
 Once in the Provider */src/* directory first do a ```dotnet restore``` at the command line to pull down the dependencies required for the project.
-Once that has completed run ```dotnet run``` this will start your the Provider API. Now check that everything is working O.K. by navigating to
+Once that has completed run ```dotnet run``` this will start your Provider API. Now check that everything is working O.K. by navigating to
 the URL below in your browser:
 
 ```
