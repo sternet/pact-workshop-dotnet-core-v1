@@ -134,7 +134,7 @@ parameters different to the defaults.
 
 ## Step 3 - Testing the Consumer Project with Pact
 
-Now we have tested the Provider API and Consumer run successfully on your machine we can start to create our Pact tests. Pact files are **Consumer Driven**
+Now we have tested the Provider API and Consumer run successfully on your machine we can start creating our Pact tests. Pact files are **Consumer Driven**
 that is to say, they work by the *Consumer* defining in there Pact tests first what they expect from a provider which can be verified by the *Provider*.
 So let's follow this convention and create our *Consumer* tests first.
 
@@ -147,7 +147,7 @@ navigate to ```[RepositoryRoot]/YourSolution/Consumer/tests``` and run:
 dotnet new xunit
 ```
 
-This will create an empty XUnit project with all the references you need... expect Pact. Depending on what OS you are completing this workshop on you will need
+This will create an empty XUnit project with all the references you need... except Pact. Depending on what OS you are completing this workshop on you will need
 to run one of the following commands:
 
 ```
