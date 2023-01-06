@@ -129,7 +129,7 @@ Validating date...
 ...Date validation complete. Goodbye.
 ```
 
-If you see output similar to above in your command line then the consumer is now running successfully! If you want to now you can experiment with passing in
+If you see output similar to above in your command line then the consumer is now running successfully! If you want to, now you can experiment with passing in
 parameters different to the defaults.
 
 ## Step 3 - Testing the Consumer Project with Pact
